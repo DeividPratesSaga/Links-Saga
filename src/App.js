@@ -1,4 +1,4 @@
-// src/App.js
+//App.js
 import React from 'react';
 import LinkList from './components/LinkList';
 import './index.css';
